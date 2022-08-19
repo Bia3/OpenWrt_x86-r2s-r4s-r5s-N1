@@ -23,7 +23,7 @@ on:
 
 env:
   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
-  TZ: US/Denver
+  TZ: America/Denver
 
 jobs:
   build:
